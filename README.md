@@ -1,5 +1,7 @@
 ![quill](https://raw.githubusercontent.com/getquill/quill/master/quill.png)
 # Quill
+
+[![Join the chat at https://gitter.im/janheise/quill](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/janheise/quill?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Compile-time Language Integrated Query for Scala
 
 [![Build Status](https://img.shields.io/travis/getquill/quill.svg)](https://api.travis-ci.org/getquill/quill.svg?branch=master)
